@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.iot.smartsole.control.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_data"
+        android:name="com.iot.smartsole.control.ui.data.DataFragment"
+        android:label="@string/menu_data"
+        tools:layout="@layout/fragment_data" />
+
+    <fragment
+        android:id="@+id/nav_device"
+        android:name="com.iot.smartsole.control.ui.device.DeviceFragment"
+        android:label="@string/menu_device"
+        tools:layout="@layout/fragment_device" />
+
+    <fragment
+        android:id="@+id/nav_statistics"
+        android:name="com.iot.smartsole.control.ui.statistics.StatisticsFragment"
+        android:label="@string/menu_statistics"
+        tools:layout="@layout/fragment_statistics" />
+</navigation>

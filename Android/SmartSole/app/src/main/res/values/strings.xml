@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SmartSole</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="home_content">SmartSole tracks patterns of your feet movement and provides statistics for you to be the best version of yourself!</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_device">Device</string>
+    <string name="menu_statistics">Statistics</string>
+    <string name="connect_button">Connect</string>
+
+    <string name="disconnect_button">Disconnect</string>
+    <string name="refresh_button">Refresh</string>
+
+    <string name="bluetooth_le_not_supported">
+        Bluetooth LE is not supported on this device
+    </string>
+    <string name="location_permission_denied">
+        If location permission is not granted, the Bluetooth LE scan will fail silently.
+        Please change the location permission for this application from Settings
+    </string>
+    <string name="menu_data">Data</string>
+    <string name="interior_front_description">Interior Front (A)</string>
+    <string name="exterior_front_description">Exterior Front (B)</string>
+    <string name="back_description">Back (C)</string>
+</resources>

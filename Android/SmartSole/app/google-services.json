@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "137751785429",
+    "firebase_url": "https://smartsole-50694-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "smartsole-50694",
+    "storage_bucket": "smartsole-50694.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137751785429:android:d566d0722deea9d916175c",
+        "android_client_info": {
+          "package_name": "com.iot.smartsole"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137751785429-79m8gi9sf8ttsk61bb682p9amvq731tv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9NhvAacX8KpMTIZmV55JEV-PRP7RQynE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137751785429-79m8gi9sf8ttsk61bb682p9amvq731tv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "137751785429-1b85d0obva75fk9ulartg753mejkj2o9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iot.SmartSole"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
